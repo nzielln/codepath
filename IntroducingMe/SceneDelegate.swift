@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  IntroduceStudent
+//  IntroducingMe
 //
 //  Created by Ellah Nzikoba on 1/21/23.
 //

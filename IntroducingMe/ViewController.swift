@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  IntroduceStudent
+//  IntroduceingMe
 //
 //  Created by Ellah Nzikoba on 1/21/23.
 //
