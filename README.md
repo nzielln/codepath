@@ -5,7 +5,7 @@
 An application that displays basic information about the user, including name, school year and whether or not they have pets (and how many)
 
 ### App Walk-though
-<img src="https://i.imgur.com/OHuMLQo.gif" width=300>
+<img src="https://i.imgur.com/FFC669l.gif" width=300>
 
 
 ### Required Features
